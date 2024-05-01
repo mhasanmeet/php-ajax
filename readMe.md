@@ -50,3 +50,8 @@ $(document).ready(function(){
     loadTable(); //function call
 });
 ```
+
+
+## Resources 
+
+[Yahoo Baba](https://www.youtube.com/playlist?list=PL0b6OzIxLPbxO0_8Av3c-9_l5RM5uJK8U)
